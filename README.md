@@ -44,5 +44,12 @@
             <a href="https://www.jetbrains.com/webstorm"><img src="https://img.shields.io/badge/WebStorm-informational?style=flat&logo=WebStorm&logoColor=white&color=000000"/></a>
         </td>
     </tr>
+    <tr><td colspan="2"><h1>Hobbies</h1></td></tr>
+    <tr>
+        <td colspan="2">
+            <a href="https://playstation.com"><img src="https://img.shields.io/badge/PlayStation-informational?style=flat&logo=PlayStation&logoColor=white&color=003791"/></a>
+            <a href="#"><img src="https://img.shields.io/badge/Music-informational?style=flat&logo=AppleMusic&logoColor=white&color=FA243C"/></a>
+        </td>
+    </tr>
     </tbody>
 </table>
